@@ -18,8 +18,6 @@ From SQLite databases with real-time replication to tools written in Go, we alwa
 ### 📚 **Developer Experience (DevEx)**
 We believe that great documentation and internal tools are key to productivity. That's why we build our own solutions, like `knowledge`.
 
----
-
 ## Featured Projects
 
 Check out some of our public projects:
@@ -29,8 +27,6 @@ Check out some of our public projects:
 | 🥑 **agents-sdk** | A JavaScript framework for building intelligent AI agents with LLM support, custom tools, and MCP integration. |
 | 📖 **knowledge** | A modern static site generator that transforms your Markdown files into professional and elegant documentation sites. |
 | ⚡ **workflows-sdk** | An SDK for orchestrating and managing complex workflows in your applications. |
-
----
 
 ## Join Us
 
