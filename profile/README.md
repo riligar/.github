@@ -1,4 +1,4 @@
-# 🚀 RiLiGar - Building Tomorrow's Intelligent Applications
+# 🚀 RiLiGar - Building Tomorrow's Intelligent Agent Applications
 
 **RiLiGar** is a cutting-edge technology company creating **high-performance SDKs** that democratize AI development. We build the fundamental blocks that enable any developer to create intelligent, scalable applications without complexity.
 
@@ -14,7 +14,5 @@
 *"Making AI-powered application development accessible to all developers, regardless of experience level."*
 
 <div align="center">
-  
-  **RiLiGar** © 2025 - *Building the blocks for the next generation of intelligent applications*
-  
+**RiLiGar** © 2025 - *Building the blocks for the next generation of intelligent agent systems*
 </div>
