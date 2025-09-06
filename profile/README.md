@@ -14,5 +14,6 @@
 *"Making AI-powered application development accessible to all developers, regardless of experience level."*
 
 <div align="center">
-**RiLiGar** © 2025 - *Building the blocks for the next generation of intelligent agent systems*
+  
+  **RiLiGar** © 2025 - *Building the blocks for the next generation of intelligent agent systems*
 </div>
