@@ -1,4 +1,4 @@
-# RiLiGar - Building Tomorrow's Intelligent Applications
+# RiLiGar - Foundations for software that thinks and acts.
 
 <div align="center">
   
