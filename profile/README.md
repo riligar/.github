@@ -8,7 +8,7 @@
 **RiLiGar** is a cutting-edge technology company creating **high-performance SDKs** that democratize AI development. We build the fundamental blocks that enable any developer to create intelligent, scalable applications without complexity.
 
 ## Our Mission
-*"Making AI-powered application development accessible to all developers, regardless of experience level."*
+*"We bind what got fragmented. The foundation is the product."*
 
 <div align="center">
   
