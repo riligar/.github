@@ -12,5 +12,5 @@ Software is being split. Each tool you use thinks alone, forgets fast, and resta
 
 <div align="center">
   
-  **RiLiGar** © 2025 - *Building the blocks for the next generation of intelligent agent systems*
+  **RiLiGar** © 2025 - *Building the blocks for the next generation of intelligent systems*
 </div>
