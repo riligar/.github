@@ -2,20 +2,10 @@
 
 **Login, deploy, dados e cobrança.** As quatro peças que você refaz em todo projeto — construídas uma vez, em português, e mantidas no ar.
 
-```mermaid
-flowchart LR
-    P((pessoa)) --> H[Hoster]
-    H --> A[Auth]
-    A -->|crachá| Y[Payments]
-    A -->|crachá| S[Storage]
-```
-
-| | | |
-|---|---|---|
-| **[Auth](https://auth.riligar.click)** | quem é você | login, sessões, organizações |
-| **[Hoster](https://hoster.riligar.click)** | onde te acho | deploy, HTTPS, CDN |
-| **[Storage](https://storage.riligar.click)** | o que é seu | dados e arquivos |
-| **[Payments](https://payments.riligar.click)** | o que pode ver | assinaturas e cobrança |
+- **[Auth](https://auth.riligar.click)** - quem é você - login, sessões, organizações 
+- **[Hoster](https://hoster.riligar.click)** - onde te acho - deploy, HTTPS, CDN
+- **[Storage](https://storage.riligar.click)** - o que é seu - dados e arquivos
+- **[Payments](https://payments.riligar.click)** - o que pode ver - assinaturas e cobrança
 
 O Auth emite o crachá; os outros leem. Cadastro uma vez, existe nos quatro.
 
