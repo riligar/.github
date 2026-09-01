@@ -1,5 +1,3 @@
-# RiLiGar
-
 **Login, deploy, dados e cobrança.** As quatro peças que você refaz em todo projeto — construídas uma vez, em português, e mantidas no ar.
 
 - **[Auth](https://auth.riligar.click)** - quem é você - login, sessões, organizações 
