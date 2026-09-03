@@ -5,7 +5,7 @@
 - **[Storage](https://storage.riligar.click)** - o que é seu - dados e arquivos
 - **[Payments](https://payments.riligar.click)** - o que pode ver - assinaturas e cobrança
 
-### Seu agente opera a infra. Você revisa.
+**Seu agente opera a infra. Você revisa.**
 
 Os quatro produtos falam **Model Context Protocol** (MCP) sobre o SDK oficial: **36 ferramentas** — 7 no Auth, 10 no Hoster, 10 no Storage, 9 no Payments.
 
