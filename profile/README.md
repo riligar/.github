@@ -16,6 +16,4 @@ Cada produto publica um `llms.txt` com o catálogo, os erros e o que **não** ex
 
 **Grátis para começar, e o grátis não vence** — 1 recurso por produto, sem cartão e sem falar com vendas. Quem precisa de mais: R$ 29,99, R$ 49,99 ou R$ 99,99 por mês, por produto, com o preço no site antes de aparecer na fatura.
 
-Operação de uma pessoa, por escolha. Você fala com quem escreveu o código, em português e no seu fuso.
-
 **[riligar.click](https://riligar.click)** · [llms.txt](https://riligar.click/llms.txt) · team@riligar.click
